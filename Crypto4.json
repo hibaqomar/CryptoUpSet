@@ -12,8 +12,5 @@
 	],
 	"sets": [
 		{ "format": "binary", "start": 0, "end": 3}
-	],
-        "author": "HibaqOmar",
-        "description": "Cryptocurrency Usernames.",
-        "source": "Twitter.com"
+	]
 }
