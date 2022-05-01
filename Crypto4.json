@@ -5,12 +5,9 @@
 	"separator": ",",
 	"skip": 0,
 	"meta": [
-		{ "type": "id", "index": 0, "name": "Bitcoin" },
-        	{ "type": "id", "index": 1, "name": "Ethereum" },
-        	{ "type": "id", "index": 2, "name": "Dogecoin" },
-        	{ "type": "id", "index": 3, "name": "Uniswap" }
+		{ "type": "id", "index": 0, "name": "Username" },
 	],
 	"sets": [
-		{ "format": "binary", "start": 0, "end": 3}
+		{ "format": "binary", "start": 0, "end": 4}
 	]
 }
