@@ -5,10 +5,9 @@
 	"separator": ",",
 	"skip": 0,
 	"meta": [
-		{ "type": "id", "index": 0, "name": "Topics" }
+		{ "type": "id", "index": 0, "name": "Topics"}
 	],
 	"sets": [
 		{ "format": "binary", "start": 1, "end": 5}
 	],
-    "author": "HibaqOmar",
 }
