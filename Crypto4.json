@@ -5,9 +5,15 @@
 	"separator": ",",
 	"skip": 0,
 	"meta": [
-		{ "type": "id", "index": 0, "name": "Username" },
+		{ "type": "id", "index": 0, "name": "Bitcoin" },
+        { "type": "id", "index": 1, "name": "Ethereum" },
+        { "type": "id", "index": 2, "name": "Dogecoin" },
+        { "type": "id", "index": 3, "name": "Uniswap" }
 	],
 	"sets": [
-		{ "format": "binary", "start": 0, "end": 4}
-	]
+		{ "format": "binary", "start": 0, "end": 3}
+	],
+    "author": "HibaqOmar",
+    "description": "Cryptocurrency Usernames.",
+    "source": "Twitter.com"
 }
