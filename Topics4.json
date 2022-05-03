@@ -1,16 +1,13 @@
 {
 	"file": "https://raw.githubusercontent.com/hibaqomar/upset-data/CryptoUpSet/Topics4.csv",
-	"name": "Crypto Topics",
+	"name": "Row",
 	"header": 0,
-	"separator": ",",
+	"separator": ";",
 	"skip": 0,
 	"meta": [
-		{ "type": "id", "index": 0, "name": "Topic" }
+		{ "type": "id", "index": 0, "name": "Row" }
 	],
 	"sets": [
-		{ "format": "binary", "start": 1, "end": 5}
-	],
-    "author": "HibaqOmar",
-    "description": "Cryptocurrency Usernames.",
-    "source": "Twitter.com"
+		{ "format": "binary", "start": 1, "end": 4}
+	]
 }
