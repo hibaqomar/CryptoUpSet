@@ -1,13 +1,13 @@
 {
 	"file": "https://raw.githubusercontent.com/hibaqomar/upset-data/CryptoUpSet/Topics4.csv",
-	"name": "Crypto Topics",
+	"name": "Test",
 	"header": 0,
 	"separator": ";",
 	"skip": 0,
 	"meta": [
-		{ "type": "id", "index": 0, "name": "Topics"}
+		{ "type": "id", "index": 0, "name": "Name" }
 	],
 	"sets": [
-		{ "format": "binary", "start": 1, "end": 4}
+		{ "format": "binary", "start": 1, "end": 4 }
 	]
 }
