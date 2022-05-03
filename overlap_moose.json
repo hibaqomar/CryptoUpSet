@@ -1,0 +1,14 @@
+{
+	"file": "https://raw.githubusercontent.com/amrutasaraf/upset-usage/master/overlap_moose.tsv",
+	"name": "moose overlap",
+	"header": 0,
+	"separator": "\t",
+	"skip": 0,
+	"meta": [
+		{ "type": "integer", "index": 0, "name": "tid" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 10}
+	],
+    "author": "amrutasaraf"
+}
